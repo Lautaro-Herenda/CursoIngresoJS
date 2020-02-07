@@ -5,9 +5,10 @@
 function mostrar()
 {
 	var nombre;
+	nombre = prompt("imgrese su nombre");
     
      document.getElementById("elNombre").value = nombre;
 
-    promp();
+    
 }
 
